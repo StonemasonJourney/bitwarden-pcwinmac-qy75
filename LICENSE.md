@@ -1,4 +1,4 @@
-# 
+# Instantáneo Bitwarden scripts para Mac OS | Automático Bitwarden scripts para PC Windows. Con protección web y interruptor de apagado — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
